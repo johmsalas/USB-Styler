@@ -5,6 +5,8 @@ This is an old project built in 2007, using Visual Basic 6 and published for the
 > ### Goal
 > The aim of the project is to show basic functionality on SO tunning, in this case customizing the appeareance of an USB once plugged > inside a Windows
 
+![Screenshot](/doc/screenshot.jpg?raw=true "USB Styler Screenshot")
+
 ### Use
 
 You must use Microsoft Visual Basic 6 in order to open and run the code. If you just want to run the program, locate the application executables inside the bin folder
